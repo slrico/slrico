@@ -9,7 +9,7 @@
 
 <p>Hashnode Blog posts</p>
 <div align="left">  
-    <a href="https://your-hashnode-url" style="display: inline-block;">
+    <a href="https://unajmieh.hashnode.dev/" style="display: inline-block;">
         <img src="https://img.icons8.com/?size=50&id=HnB8zGOh5xgd&format=png&color=000000" alt="Hashnode" width="30" />    
     </a>  
 </div>  
