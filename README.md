@@ -1,6 +1,6 @@
 ## <sub>Selected Projects Overview</sub>
 
-<sub>Below is a curated list of key projects demonstrating expertise across machine learning, data processing, and web development.</sub>
+<sub>Below is a ...</sub>
 
 | <sub>Project Name</sub>          | <sub>Overview</sub>                                              | <sub>Technology Stack</sub>                           | <sub>Repository Links & Metrics</sub>                  |
 |-----------------------|-------------------------------------------------------|--------------------------------------------|----------------------------------------------|
